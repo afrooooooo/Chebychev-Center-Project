@@ -4,7 +4,7 @@
 This project implements the Chebyshev center problem using Python. The goal is to find the point inside a constrained region that minimizes the average distance to each point in the region.
 
 ## What is the Chebyshev Center?
-The Chebyshev center is the center of the smallest circimscribed ball that that fits every point in given set. It is commonly used in optimization, robust decision-making, and facility location problems.
+The Chebyshev Center of a set of points is the center of the smallest circimscribed ball that that each point. It is commonly used in optimization, robust decision-making, and facility location problems.
 
 ## Methods Used
 - Convex optimization modeling
